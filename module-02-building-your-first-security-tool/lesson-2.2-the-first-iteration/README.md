@@ -1,4 +1,4 @@
-# Lesson 2.2 – The First Iteration
+# lesson-2.2–the-first-iteration
 
 ## Objective
 
